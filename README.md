@@ -14,6 +14,7 @@
   - private route를 활용한 로그인하지 않은 계정 todo list 접근 차단
   - custom hook을 활용한 service 모듈화
   - 배포 링크 : https://todo-best-practice-fe-5.netlify.app/
+  - 코드 링크 : https://github.com/wanted-pre-onboarding-frontend-6/pre-onboarding-assignment-week-1-1-team-5
 
 ### assgin1
   - 사전과제 대상으로 동료학습을 통한 best pratice 선정
@@ -26,6 +27,7 @@
   - 제 코드가 best practice로 선정 (김성용)
   - 배포링크:  https://fruitte-renewal-fe-5.netlify.app/
   - 다자인링크: https://www.figma.com/file/aLh3NrkazaTVTkHaC2ntsK/Untitled?node-id=0%3A1 (김성용)
+  - 코드 링크: https://github.com/wanted-pre-onboarding-frontend-6/pre-onboarding-assignment-week-1-2-team-5
   
 ### assgin3
   - IMWEB 기업과제, 영화 공용 api를 활용한 검색 및 무한 스크롤이 가능한 트레일러 사이트 만들기
@@ -34,6 +36,7 @@
   - 제 코드가 best practice로 선정 (김성용)
   - 배포링크: https://movie-trailer-fe-5.netlify.app/
   - 디자인링크: https://www.figma.com/file/NUfCromXgunwSMxY3UrQ59/Untitled?node-id=0%3A1 (김성용)
+  - 코드링크: https://github.com/wanted-pre-onboarding-frontend-6/pre-onboarding-assignment-week-2-1-team-5
   
 ### assgin4
   - 띵스플로우 기업과제, 깃허브 공용 api를 활용한 특정 레포지토리의 이슈 조희 및 상세페이지 구현
@@ -42,6 +45,7 @@
   - 제 코드가 best practice로 선정 (김성용)
   - 배포링크: https://github-issue-list-fe-5.netlify.app/
   - 디자인링크: https://www.figma.com/file/55oSEG2YGeBtfyCHRy5B8k/Untitled (김성용)
+  - 코드링크: https://github.com/wanted-pre-onboarding-frontend-6/pre-onboarding-assignment-week-3-1-team-5
   
 ### assgin5
  - 스파크펫 기업과제, redux를 활용하여 전체 상태관리를 요구한 기업과제, 댓글 작성 수정 삭제 구현
@@ -49,6 +53,7 @@
  - redux-tookit과 redux-saga를 활용, tookit의 자체지원인 thunk의 사용 여부 토의
  - 제 코드가 best practice로 선정 (김성용)
  - 배포링크: https://comments-fe-5.netlify.app/?page=1
+ - 코드링크: https://github.com/wanted-pre-onboarding-frontend-6/pre-onboarding-assignment-week-3-2-team-5
  
 ### assgin6
  - 디셈버엔컴퍼니(핀트) 기업과제, 어드민 페이지 제작
@@ -57,7 +62,15 @@
  - react-qurey를 활용하여 api 캐싱을 구현 -> 삭제 후 캐싱된 데이터를 불러와 하나가 적게 불러와짐, 캐싱에 조건 부여
  - json 데이터를 활용한 키와 값 탐색
  - 배포링크:
- - json 데이터를 활용한 키와 값 탐색 
 
 ### assgin7
+ - 출처 미상 기업과제, api 캐싱 라이브러리 없이 구현하기, api 호출 최적화, 검색 및 검색어 추천, 최근검색어 구현
+ - cahce api를 활용한 웹 스토리지 캐싱을 구현, 로컬 스토리지를 활용한 최근검색어 구현
+ - json-server를 활용 및 heroku를 통한 배포
+ - 제 코드가 best practice로 선정 (김성용)
+ - 배포링크: https://search-fe-5.netlify.app/
+ - 코드링크: https://github.com/wanted-pre-onboarding-frontend-6/pre-onboarding-assignment-week-5-1-team-5
 
+
+ 
+ 
