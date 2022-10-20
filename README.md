@@ -65,7 +65,7 @@
  - react-qurey를 활용하여 api 캐싱을 구현 -> 삭제 후 캐싱된 데이터를 불러와 하나가 적게 불러와짐, 캐싱에 조건 부여
  - json 데이터를 활용한 키와 값 탐색
  - 제 코드가 best practice로 선정 (김성용)
- - 배포링크: http://seongyong123.s3-website.ap-northeast-2.amazonaws.com/
+ - 배포링크: http://d12r37ezbodeiz.cloudfront.net/
  - 디자인링크: https://www.figma.com/file/N4zkgEC8bbyZ3Wcyh0OYNJ/Untitled?node-id=0%3A1 (김성용)
  - 코드링크: https://github.com/wanted-pre-onboarding-frontend-6/pre-onboarding-assignment-week-4-1-team-5-A
 
