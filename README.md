@@ -60,7 +60,7 @@
  - 디셈버엔컴퍼니(핀트) 기업과제, 어드민 페이지 제작
  - 유저관리 및 계좌관리 기능 구현, 정규표현식을 활용한 고객정보 보호 및 페이지 새로고침 후 상태유지, api 이후 동기적인 흐름으로 연쇄 api 호출
  - json-server를 활용 및 heroku를 통한 배포, aws s3 배포, git action을 활용한 CI/CD 적용
- - oop를 활용한 api 다형성 및 캡슐화, api custom error 구현
+ - oop를 활용한 api 다형성, 캡슐화, 의존성부여 및 api custom error 구현
  - login test code 및 story book을 활용한 UI 테스트팅 구현
  - react-qurey를 활용하여 api 캐싱을 구현 -> 삭제 후 캐싱된 데이터를 불러와 하나가 적게 불러와짐, 캐싱에 조건 부여
  - json 데이터를 활용한 키와 값 탐색
