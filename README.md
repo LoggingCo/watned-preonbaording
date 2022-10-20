@@ -3,7 +3,8 @@
   
   2일도 안되는 짧은 시간에 기업과제를 구현하고 서로 완성 코드에 대한 리뷰 후 best practice를 선정하는 꽉 찬 스케줄로 구성된 온보딩이었습니다.
   배운 것도 많았고 좋은 프론트엔드 아키텍처 설계를 위한 좋은 밑거름이 되었습니다. 또한, 팀장을 맡아 현직 실무자 및 여러 부트캠프, saffy 출신 등
-  다양한 환경에서 다른 기술을 배운 개발자들끼리 많은 정보를 공유할 수 있었기에 많은 것을 배울 수 있었습니다.
+  다양한 환경에서 다른 기술을 배운 개발자들끼리 많은 정보를 공유할 수 있었기습니다. 프론트와 백엔드 모두 합격 후 많은 고민을 하였지만 프론트엔드 과
+  정을 선택한 것에 후회가 없게끔 좋은 섹션이었습니다.
   
   관련 organization 주소: https://github.com/wanted-pre-onboarding-frontend-6
 
@@ -62,7 +63,9 @@
  - login test code 및 story book을 활용한 UI 테스트팅 구현
  - react-qurey를 활용하여 api 캐싱을 구현 -> 삭제 후 캐싱된 데이터를 불러와 하나가 적게 불러와짐, 캐싱에 조건 부여
  - json 데이터를 활용한 키와 값 탐색
+ - 제 코드가 best practice로 선정 (김성용)
  - 배포링크: http://seongyong123.s3-website.ap-northeast-2.amazonaws.com/
+ - 디자인링크: https://www.figma.com/file/N4zkgEC8bbyZ3Wcyh0OYNJ/Untitled?node-id=0%3A1 (김성용)
  - 코드링크: https://github.com/wanted-pre-onboarding-frontend-6/pre-onboarding-assignment-week-4-1-team-5-A
 
 ### assgin7
